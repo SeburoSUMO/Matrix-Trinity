@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "version": "3.0",
+  "name": "Matrix Trinity",
+  "theme": {
+    "images": {},
+    "properties": {},
+     "colors": {
+      "toolbar": "rgb(20, 17, 26)",
+      "bookmark_text": "rgb(0, 255, 65)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(0, 255, 65)",
+      "toolbar_field": "rgb(20, 17, 26)",
+      "toolbar_field_text": "rgb(0, 255, 65)",
+      "toolbar_field_border": "rgb(0, 255, 65)",
+      "toolbar_field_border_focus": "rgb(0, 255, 65)",      
+      "ntp_background": "rgb(20, 17, 26)",
+      "ntp_background_text": "rgb(0, 255, 65)",
+      "ntp_text": "rgb(0, 255, 65)",
+      "tab_line": "rgb(0, 255, 65)",
+      "popup": "rgb(20, 17, 26)",
+      "popup_text": "rgb(0, 255, 65)",
+      "tab_loading": "rgb(0, 255, 65)"
+    }
+  }
+}
